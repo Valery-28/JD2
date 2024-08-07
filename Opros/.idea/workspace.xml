@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165e87e0-ecd8-4d69-940e-74e0b01d61f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opros.iml" beforeDir="false" afterPath="$PROJECT_DIR$/opros.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/BrowserVoteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/MobileVoteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/VoteDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/old/HelloWorldServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/old/PrintOnlyName2Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/old/PrintOnlyName3Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/old/PrintOnlyNameServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/old/PrintServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/services/VoteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/services/api/IVoteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controllers/BrowserVoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controllers/MobileVoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dto/VoteDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/old/HelloWorldServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/old/PrintOnlyName2Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/old/PrintOnlyName3Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/old/PrintOnlyNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/old/PrintServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/services/VoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/services/api/IVoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/controllers/BrowserVoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/controllers/MobileVoteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/dto/VoteDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/old/HelloWorldServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/old/PrintOnlyName2Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/old/PrintOnlyName3Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/old/PrintOnlyNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/old/PrintServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/services/VoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/classes/org/example/services/api/IVoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/opros-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2kKBRhYtvbYxp8GzHXg8a0YG5ir" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165e87e0-ecd8-4d69-940e-74e0b01d61f0" name="Changes" comment="" />
+      <created>1723022384115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723022384115</updated>
+      <workItem from="1723022385416" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
