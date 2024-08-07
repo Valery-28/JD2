@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vote</title>
+    <style>
+        body {
+            background-color: rgb(255, 255, 254);
+        }
+    </style>
+</head>
+<body>
+<form name="form" method="post" action="http://localhost:8080/opros-1.0-SNAPSHOT/vote">
+    <label>Singers:</label>
+    <div>
+        <label>
+            <input type="radio" name="singer" value="Green Day"/>Green Day
+        </label>
+    </div>
+    <div>
+        <label>
+            <input type="radio" name="singer" value="Alestorm"/>Alestorm
+        </label>
+    </div>
+    <div>
+
+        <label>
+            <input type="radio" name="singer" value="Iggy Pop"/>Iggy Pop
+        </label>
+    </div>
+    <div>
+        <label>
+            <input type="radio" name="singer" value="4"/>
+        </label> 4
+    </div>
+
+    <p>style:
+    <div>
+
+    <label>
+            <input type="checkbox" name="style" value="Rock"/>
+        </label> Rock
+</div>
+    <div>
+        <label>
+
+            <input type="checkbox" name="style" value="Metal"/>
+        </label> Metal
+    </div>
+    <div>
+    <label>
+            <input type="checkbox" name="style" value="Pop"/>
+        </label> Pop
+    </div>
+    <label>
+            <input type="checkbox" name="style" value="4"/>
+        </label> 4
+        <label>
+            <input type="checkbox" name="style" value="5"/>
+        </label> 5
+        <label>
+            <input type="checkbox" name="style" value="6"/>
+        </label>6
+        <label>
+            <input type="checkbox" name="style" value="7"/>
+        </label> 7
+        <label>
+            <input type="checkbox" name="style" value="8"/>
+        </label> 8
+        <label>
+            <input type="checkbox" name="style" value="9"/>
+        </label> 9
+        <label>
+            <input type="checkbox" name="style" value="10"/>
+        </label> 10
+    </p>
+
+
+    <p>Write short message:
+        <label>
+            <textarea name="message"></textarea>
+        </label></p>
+
+    <input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>
