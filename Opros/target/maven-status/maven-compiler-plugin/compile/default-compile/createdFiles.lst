@@ -1,0 +1,10 @@
+org\example\old\HelloWorldServlet.class
+org\example\controllers\MobileVoteServlet.class
+org\example\old\PrintOnlyName2Servlet.class
+org\example\old\PrintOnlyName3Servlet.class
+org\example\old\PrintOnlyNameServlet.class
+org\example\dto\VoteDTO.class
+org\example\services\VoteService.class
+org\example\old\PrintServlet.class
+org\example\controllers\BrowserVoteServlet.class
+org\example\services\api\IVoteService.class
